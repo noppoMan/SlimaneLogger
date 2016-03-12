@@ -1,0 +1,8 @@
+.DS_Store
+Packages
+.build
+Xcode/SlimaneLogger.xcodeproj/xcuserdata
+Xcode/SlimaneLogger.xcworkspace/xcuserdata
+Xcode/SlimaneLogger.xcodeproj/project.xcworkspace/xcuserdata
+Xcode/build
+Tests/XCTest.*
