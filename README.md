@@ -1,0 +1,2 @@
+# SlimaneLogger
+Logger for Slimane
